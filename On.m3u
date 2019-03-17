@@ -1,126 +1,299 @@
 ﻿#EXTM3U
  #EXTINF:-1,|قنوات تبث فقط على تطبيق IPTV KACED PRO وغير ذالك فهي سرقة
-http://avasys.one:28109/live/active/active/8766.ts 
-#EXTINF:-1,|MOVIES| CINEMA ONE HD 
-http://avasys.one:28109/live/active/active/8766.ts 
-#EXTINF:-1,|MOVIES| CINEMA FAMILY HD 
-http://avasys.one:28109/live/active/active/8764.ts 
-#EXTINF:-1,|MOVIES| CINEMA PREMIERE HD 
-http://avasys.one:28109/live/active/active/8767.ts 
-#EXTINF:-1,|OSN| ART Aflam 1 
-http://avasys.one:28109/live/active/active/68.ts 
-#EXTINF:-1,|OSN| ART Aflam 2 
-http://avasys.one:28109/live/active/active/69.ts 
-#EXTINF:-1,|OSN| ART Cinema 
-http://avasys.one:28109/live/active/active/70.ts 
-#EXTINF:-1,|OSN| ART Hekayat 1 
-http://avasys.one:28109/live/active/active/66.ts 
-#EXTINF:-1,|OSN| ART Al Hekayat 2 
-http://avasys.one:28109/live/active/active/67.ts 
-#EXTINF:-1,|OSN| Docu Box HD 
-http://avasys.one:28109/live/active/active/2569.ts 
-#EXTINF:-1,|OSN| Fight Box HD 
-http://avasys.one:28109/live/active/active/2570.ts 
-#EXTINF:-1,|OSN| Movies HD 
-http://avasys.one:28109/live/active/active/33.ts 
-#EXTINF:-1,|OSN| Movies Action HD 
-http://avasys.one:28109/live/active/active/34.ts 
-#EXTINF:-1,|OSN| Movies Action HD +2 
-http://avasys.one:28109/live/active/active/23.ts 
-#EXTINF:-1,|OSN| Movies FIRST HD 
-http://avasys.one:28109/live/active/active/38.ts 
-#EXTINF:-1,|OSN| Movies First HD 2h 
-http://avasys.one:28109/live/active/active/40.ts 
-#EXTINF:-1,|OSN| Movies Comedy HD 
-http://avasys.one:28109/live/active/active/24.ts 
-#EXTINF:-1,|OSN| Movies THRILLER HD 
-http://avasys.one:28109/live/active/active/39.ts 
-#EXTINF:-1,|OSN| Movies Kids HD 
-http://avasys.one:28109/live/active/active/41.ts 
-#EXTINF:-1,|OSN| Movies Disney HD 
-http://avasys.one:28109/live/active/active/3855.ts 
-#EXTINF:-1,|OSN| Star Movies 
-http://avasys.one:28109/live/active/active/57.ts 
-#EXTINF:-1,|OSN| Series First HD 
-http://avasys.one:28109/live/active/active/35.ts 
-#EXTINF:-1,|OSN| First Home Of HBO 
-http://avasys.one:28109/live/active/active/58.ts 
-#EXTINF:-1,|OSN| Series Comedy 
-http://avasys.one:28109/live/active/active/735.ts 
-#EXTINF:-1,|OSN| YaHala HD 
-http://avasys.one:28109/live/active/active/22.ts 
-#EXTINF:-1,|OSN| YaHala OULA 
-http://avasys.one:28109/live/active/active/28.ts 
-#EXTINF:-1,|OSN| YaHala Cinema HD 
-http://avasys.one:28109/live/active/active/37.ts 
-#EXTINF:-1,|OSN| Nahar Drama HD 
-http://avasys.one:28109/live/active/active/10159.ts #EXTINF:-1,|OSN| Nahar One HD 
-http://avasys.one:28109/live/active/active/10160.ts 
-#EXTINF:-1,|OSN| Cinema 1 
-http://avasys.one:28109/live/active/active/726.ts 
-#EXTINF:-1,|OSN| Cinema 2 
-http://avasys.one:28109/live/active/active/727.ts 
-#EXTINF:-1,|OSN| Musalsalat HD 
-http://avasys.one:28109/live/active/active/728.ts 
-#EXTINF:-1,|OSN| Musalsalat 2 HD 
-http://avasys.one:28109/live/active/active/9005.ts 
-#EXTINF:-1,|OSN| Al-Safwa 
-http://avasys.one:28109/live/active/active/722.ts 
-#EXTINF:-1,|OSN| Al-Yawm 
-http://avasys.one:28109/live/active/active/723.ts 
-#EXTINF:-1,|OSN| History 
-http://avasys.one:28109/live/active/active/4762.ts 
-#EXTINF:-1,|OSN| FANN 
-http://avasys.one:28109/live/active/active/9007.ts 
-#EXTINF:-1,|OSN| LIVING HD 
-http://avasys.one:28109/live/active/active/9006.ts 
-#EXTINF:-1,|OSN| Syfy 
-http://avasys.one:28109/live/active/active/4759.ts 
-#EXTINF:-1,|OSN| E 
-http://avasys.one:28109/live/active/active/4194.ts 
-#EXTINF:-1,|OSN| Paramount 
-http://avasys.one:28109/live/active/active/4190.ts 
-#EXTINF:-1,|OSN| BBC First HD 
-http://avasys.one:28109/live/active/active/8267.ts 
-#EXTINF:-1,|OSN| Nat Geo Wild HD 
-http://avasys.one:28109/live/active/active/64.ts 
-#EXTINF:-1,|OSN| Animal Planet HD 
-http://avasys.one:28109/live/active/active/63.ts 
-#EXTINF:-1,|OSN| Discovery Sc HD 
-http://avasys.one:28109/live/active/active/62.ts 
-#EXTINF:-1,|OSN| Discovery IDX 
-http://avasys.one:28109/live/active/active/4191.ts 
-#EXTINF:-1,|OSN| DISCOVERY SHARK WEEK HD 
-http://avasys.one:28109/live/active/active/8627.ts 
-#EXTINF:-1,|OSN| DISCOVERY SCIENCE HD 
-http://avasys.one:28109/live/active/active/8626.ts 
-#EXTINF:-1,|OSN| Discovery 
-http://avasys.one:28109/live/active/active/4193.ts 
-#EXTINF:-1,|OSN| Discovery Family Channel 
-http://avasys.one:28109/live/active/active/1252.ts 
-#EXTINF:-1,|OSN| WWE 
-http://avasys.one:28109/live/active/active/61.ts 
-#EXTINF:-1,|OSN| OSN SPORTS FHD 1 
-http://avasys.one:28109/live/active/active/25.ts 
-#EXTINF:-1,|OSN| OSN SPORTS FHD 2 
-http://avasys.one:28109/live/active/active/36.ts 
-#EXTINF:-1,|OSN| SPORT CRICKET HD 
-http://avasys.one:28109/live/active/active/9567.ts 
-#EXTINF:-1,|AD| Abu Dhabi Sports 1HD 
-http://avasys.one:28109/live/active/active/48.ts 
-#EXTINF:-1,|AD| Abu Dhabi Sports 2HD 
-http://avasys.one:28109/live/active/active/49.ts 
-#EXTINF:-1,|AD| Abu Dhabi Sports 3HD 
-http://avasys.one:28109/live/active/active/50.ts 
-#EXTINF:-1,|AD| Abu Dhabi Sports 4HD 
-http://avasys.one:28109/live/active/active/51.ts 
-#EXTINF:-1,|AD| Abu Dhabi Sports 5HD 
-http://avasys.one:28109/live/active/active/52.ts 
-#EXTINF:-1,|AD| Abu Dhabi Sports 6HD 
-http://avasys.one:28109/live/active/active/6282.ts 
-#EXTINF:-1,|MA| 2M Maroc 
-http://avasys.one:28109/live/active/active/8192.ts 
-#EXTINF:-1,|MA| 2M Tnt 
-http://avasys.one:28109/live/active/active/8007.ts 
-#EXTINF:-1,|MA| Medi1tv 
-http://avasys.one:28109/live/active/active/8006.ts 
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: BEIN MOVIES 1HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1469
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: BEIN MOVIES 2HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1470
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: BEIN MOVIES 3HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1471
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: BEIN MOVIES 4HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1472
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN SPORT AlKASS 1 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2310
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN NAT GEO ABUDUBAI HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2311
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN MOVIES DRAMA
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2313
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN MOVIES HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1738
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN MOVIES ACTION 2 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2314
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN ON DEMAND EXTRA 1HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1726
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN ON DEMAND EXTRA-2HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1725
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Movies Festival HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1728
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Movies Box Office 1
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1731
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Movies Box Office 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1730
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Movies Box Office 3
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1729
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN CINEMA 1
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2585
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN ORBIT CINEMA 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2584
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Movies Kids HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2556
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Movies FIRST HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2555
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Star World HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1734
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Movie kids HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1740
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN YAHALA SHABAB
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2586
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Yahala HD Drama
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1737
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN Movies Action HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/3188
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN ART Hekayat 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2609
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN ART HEKAYAT 1
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2610
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN ART Aflam 1
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2612
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: OSN ART Aflam 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2611
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: AL YAUM
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2750
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Peace TV
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2751
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Al Hayat 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2752
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Al Hayat 1
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2753
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: AL Hurra TV
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2748
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Al Sharqiya News
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2749
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: B4U-PLUS
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1695
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: B4U-Aflam
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2538
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: SEMSEM
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2536
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: TOYOR-ALJANNAH
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2537
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Al mehwar
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2542
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: AD SPORT 1
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2539
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: AD SPORT 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2540
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Star Cinema 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1791
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR:ROTANA CLip
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1785
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR:NILE SPORT
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1787
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR:Nile Drama pro
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1788
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR:Nile Comedy
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1789
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC PRO SPORT 1 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2559
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC PRO SPORT 2 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2558
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC Max
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1477
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC Drama
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1478
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC Bollywood HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1476
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC Action
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1796
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC Action HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1475
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC 1
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1794
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1795
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC 3 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1502
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC 4 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1503
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: CBC Sofra
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1800
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: CBC pro
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1797
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: CBC EXTRA
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1798
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR:CBC Drama
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1801
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Zee Alwan
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2315
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Zee Aflam
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/2316
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Samira TV
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1684
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: ROTANA Masriya
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1707
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Rotana Classic HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1708
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: ROTANA Cinema
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1706
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Nile Cinema
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1793
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC MASAR
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1792
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Nessma TV
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1806
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MBC MASAR 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1710
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Medi 1 Sat
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1703
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: MTV Lebanon
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1481
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: France 24
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1810
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Ennahar TV DZ
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1680
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Dubai TV
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1482
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Dubai Sports 3 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1483
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Dubai Sport 1 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1484
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Dubai One
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1485
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Dubai zaman HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1486
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Cartoon NetworK
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1709
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: ART-Cinema
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1694
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: ART-Aflam 1 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1692
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: ART Cinema
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1488
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: ART Aflam 2 HD
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1693
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Arrabiaa Maroc
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1688
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Al Aoula Maroc
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1685
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Al maghribya Maroc
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1687
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Aljazeera Arabic
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1691
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Alarabiya DMI
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1809
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Aljazeera Doc
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1690
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Al Nahar Drama (Egypt)
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1487
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Al Majd Quran DMI
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1805
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Abu Dhabi Drama
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1804
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR: Karameesh
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/1686
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR-VIP: BEIN SPORTS MAX 1
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/13690
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR-VIP: BEIN SPORTS MAX 2
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/13689
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR-VIP: BEIN SPORTS MAX 3
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/13688
+#EXTVLCOPT:http-user-agent=rasho88jan
+#EXTINF:-1,AR-VIP: BEIN SPORTS MAX 4
+http://hdiptv.cheaprestreams.xyz:8000/sipan1taban/vU98C1RRR1/13687
